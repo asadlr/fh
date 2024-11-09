@@ -599,7 +599,7 @@ class _OnboardingWidgetState extends State<OnboardingWidget> {
                             child: ClipRRect(
                               borderRadius: BorderRadius.circular(8.0),
                               child: Image.asset(
-                                'assets/images/profile_placeholder.png',
+                                'assets/images/profile_placeholder.webp',
                                 width: 300.0,
                                 height: 100.0,
                                 fit: BoxFit.fitHeight,
